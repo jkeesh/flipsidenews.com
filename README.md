@@ -1,4 +1,8 @@
 
+## Notes on site hosting
+
+site is now hosted on a different server, a small linode
+50.116.1.82
 
 
 # Info on letsencrypt
